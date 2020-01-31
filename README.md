@@ -1,0 +1,2 @@
+# eyic
+codes for homeautomation
